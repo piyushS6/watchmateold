@@ -1,2 +1,4 @@
 # watchmate
-Watchmate - IMDB Clone App
+Watchmate - IMDB Clone App with Django
+
+
